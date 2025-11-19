@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "title": "COMP6080 Slide 1",
+    "description": "Description for Slide 1",
+    "thumbnail": "https://www.volvocars.com/images/cs/v3/assets/blt0feaa88e629251fc/bltc64da4324e6e40e6/66900cbc0bacf15fef2a94d0/v90-fuel-og.jpg?branch=prod_alias&auto=webp&h=630&iar=0&w=1200",
+    "updated_at": "2023-11-01T12:00:00Z",
+    "created_at": "2023-11-01T12:00:00Z",
+    "cards": [{}, {}]
+  },
+  {
+    "id": "2",
+    "title": "COMP6080 Slide 2",
+    "description": "Description for Slide 2",
+    "thumbnail": "https://www.volvocars.com/images/cs/v3/assets/blt0feaa88e629251fc/bltc64da4324e6e40e6/66900cbc0bacf15fef2a94d0/v90-fuel-og.jpg?branch=prod_alias&auto=webp&h=630&iar=0&w=1200",
+    "updated_at": "2023-11-02T12:00:00Z",
+    "created_at": "2023-11-02T12:00:00Z",
+    "cards": [{}, {}, {}]
+  }
+]
