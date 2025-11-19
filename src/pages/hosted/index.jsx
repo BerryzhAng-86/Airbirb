@@ -12,7 +12,7 @@ import {
 import { StarRating } from '../../componemts/StarRating';
 import { fetchHostedSummary } from '../../componemts/hostLoad';
 import HostedHeader from '../../componemts/hostedHeader';
-import HostedListSection from '../../componemts/hostedListSection';
+import HostedListSection from '../../componemts/HostedListSection';
 
 /**
  * HostedListPage
